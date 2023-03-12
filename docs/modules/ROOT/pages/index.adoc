@@ -1,0 +1,5 @@
+= unifi-controller
+
+unifi-controller is a Commodore component to manage unifi-controller.
+
+See the xref:references/parameters.adoc[parameters] reference for further details.

@@ -1,0 +1,25 @@
+{
+  "template": "https://github.com/projectsyn/commodore-component-template.git",
+  "commit": "73f964d1a9b834a772169d1ffe2b4406f90b2472",
+  "checkout": "main",
+  "context": {
+    "cookiecutter": {
+      "name": "unifi-controller",
+      "slug": "unifi-controller",
+      "parameter_key": "unifi_controller",
+      "test_cases": "defaults",
+      "add_lib": "n",
+      "add_pp": "n",
+      "add_golden": "y",
+      "add_matrix": "y",
+      "add_go_unit": "n",
+      "copyright_holder": "VSHN AG <info@vshn.ch>",
+      "copyright_year": "2023",
+      "github_owner": "tegridy-io",
+      "github_name": "component-unifi-controller",
+      "github_url": "https://github.com/tegridy-io/component-unifi-controller",
+      "_template": "https://github.com/projectsyn/commodore-component-template.git"
+    }
+  },
+  "directory": null
+}

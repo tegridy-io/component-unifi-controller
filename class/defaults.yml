@@ -1,0 +1,4 @@
+parameters:
+  unifi_controller:
+    =_metadata: {}
+    namespace: syn-unifi-controller

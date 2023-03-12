@@ -1,0 +1,6 @@
+name: unifi-controller
+title: unifi-controller
+version: master
+start_page: ROOT:index.adoc
+nav:
+  - modules/ROOT/partials/nav.adoc
